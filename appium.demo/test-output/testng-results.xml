@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="39600" started-at="2018-05-13T17:37:48Z" finished-at="2018-05-13T17:38:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="39600" started-at="2018-05-13T17:37:48Z" finished-at="2018-05-13T17:38:27Z">
+      <class name="appium.demo.test.Amazon">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:appium.demo.test.Amazon@a38d7a3]" name="setUp" is-config="true" duration-ms="25785" started-at="2018-05-13T17:37:48Z" finished-at="2018-05-13T17:38:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testCal()[pri:0, instance:appium.demo.test.Amazon@a38d7a3]" name="testCal" duration-ms="13767" started-at="2018-05-13T17:38:13Z" finished-at="2018-05-13T17:38:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCal -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:appium.demo.test.Amazon@a38d7a3]" name="teardown" is-config="true" duration-ms="0" started-at="2018-05-13T17:38:27Z" finished-at="2018-05-13T17:38:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- appium.demo.test.Amazon -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
